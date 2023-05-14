@@ -1,3 +1,3 @@
 # najot
 Najot ta'lim loyihasi
-![alt text](/screenshot_10.png)
+![alt text](/Screenshot_10.png)
